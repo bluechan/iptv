@@ -253,12 +253,6 @@ https://iptv.leepart.workers.dev/hls/mydy2.m3u8
 https://iptv.leepart.workers.dev/hls/tyjd.m3u8
 #EXTINF:-1 group-title="香港",天映经典(第2声道)
 https://iptv.leepart.workers.dev/hls/tyjd2.m3u8
-#EXTINF:-1 group-title="新闻频道",CCTV-13高清
-https://iptv.leepart.workers.dev/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="新闻频道",无线新闻台
-https://iptv.leepart.workers.dev/hls/inews.m3u8
-#EXTINF:-1 group-title="新闻频道",娱乐新闻台
-https://iptv.leepart.workers.dev/hls/enews.m3u8
 #EXTINF:-1 group-title="新闻频道",BBC新闻频道
 https://iptv.leepart.workers.dev/hls/bbcnews.m3u8
 #EXTINF:-1 group-title="新闻频道",CNN新闻频道
@@ -269,22 +263,8 @@ https://iptv.leepart.workers.dev/hls/fhzw.m3u8
 https://iptv.leepart.workers.dev/hls/fhzx.m3u8
 #EXTINF:-1 group-title="新闻频道",今日俄罗斯电视台
 https://iptv.leepart.workers.dev/hls/rt.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV-5高清
-https://iptv.leepart.workers.dev/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV-5+高清
-https://iptv.leepart.workers.dev/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育高清
-https://iptv.leepart.workers.dev/hls/wxtyhd.m3u8
 #EXTINF:-1 group-title="体育频道",Star Sports
 https://iptv.leepart.workers.dev/hls/starsports.m3u8
-#EXTINF:-1 group-title="电影频道",CCTV-6高清
-https://iptv.leepart.workers.dev/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="电影频道",CHC高清电影
-https://iptv.leepart.workers.dev/hls/chchd.m3u8
-#EXTINF:-1 group-title="电影频道",美亚电影台(普通话)
-https://iptv.leepart.workers.dev/hls/mydy2.m3u8
-#EXTINF:-1 group-title="电影频道",美亚电影台(粤语)
-https://iptv.leepart.workers.dev/hls/mydy.m3u8
 #EXTINF:-1 group-title="电影频道",Paramount Network
 https://iptv.leepart.workers.dev/hls/paramount.m3u8
 #EXTINF:-1 group-title="电影频道",KIX
@@ -303,8 +283,6 @@ https://iptv.leepart.workers.dev/hls/animax2.m3u8
 https://iptv.leepart.workers.dev/hls/kid.m3u8
 #EXTINF:-1 group-title="动漫频道",Hands Up Channel(第2声道)
 https://iptv.leepart.workers.dev/hls/kid2.m3u8
-#EXTINF:-1 group-title="纪录频道",CCTV-9高清
-https://iptv.leepart.workers.dev/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="纪录频道",Discovery
 https://iptv.leepart.workers.dev/hls/discovery.m3u8
 #EXTINF:-1 group-title="纪录频道",Discovery科学
@@ -355,3 +333,5 @@ https://iptv.leepart.workers.dev/hls/hubvv.m3u8
 https://iptv.leepart.workers.dev/hls/tvbs.m3u8
 #EXTINF:-1 group-title="测试频道",星空卫视
 https://iptv.leepart.workers.dev/hls/startv.m3u8
+#EXTINF:-1 ,Unknown_1
+https://raw.githubusercontent.com/ddgksf2013/M3U8LIST/master/20220420.1080P.m3u
